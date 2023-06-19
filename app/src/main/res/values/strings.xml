@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">test</string>
+    <string name="main_text">Тест CircleImageView lib</string>
 </resources>
